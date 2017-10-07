@@ -1,8 +1,0 @@
-#game-root {
-    width: 400px;
-    height: 400px;
-}
-
-#game-root * {
-    position: absolute;
-}
